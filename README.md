@@ -1,3 +1,5 @@
+## mettre tes fichiers sur GitHub avec Git
+
 Ouvre un terminal dans ton dossier de projet
 
     Exemple :
